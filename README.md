@@ -8,3 +8,6 @@ algorithm collections
 
 We present the integer to bits and use bitwise operations to implement the sum of two integers.
 ![Sum of 2 Int](docs/sum_of_2_int.png)
+
+### Clone graph
+![clone  graph](docs/cloneGraph.png)]
